@@ -14,4 +14,5 @@ public class BankAccount implements Measureable {
     public double getMeasure() {
         return balance;
     }
+
 }

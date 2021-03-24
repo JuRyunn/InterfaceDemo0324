@@ -24,6 +24,7 @@ public class MyInterfaceProg {
             sum = sum + obj.getMeasure();
         }
         return sum/objects.length;
+
     }
 
 /*    private static double average(BankAccount[] objects) {
