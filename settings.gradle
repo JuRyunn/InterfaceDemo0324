@@ -1,0 +1,3 @@
+include ':stdJavaPrograms'
+include ':app'
+rootProject.name = "InterfaceDemo0324"
